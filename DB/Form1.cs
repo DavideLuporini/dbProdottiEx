@@ -73,7 +73,7 @@ namespace DB
 
         private void Salva_Click(object sender, EventArgs e)
         {
-            var NomeProdotto = Salva.Text;
+            var NomeProdotto = textBox2.Text;
             decimal Prezzo = decimal.Parse(Price.Text);
             int Brand = int.Parse(comboBox_brand.ValueMember);
             int Categories = int.Parse(comboBox_brand.ValueMember);
