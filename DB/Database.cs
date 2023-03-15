@@ -7,6 +7,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace DB
 {
@@ -17,7 +18,7 @@ namespace DB
             get
             {
                 var builder = new SqlConnectionStringBuilder();
-                builder.DataSource = "DESKTOP-J3NH6E3";
+                builder.DataSource = "WINAPTMDO3D7THZ\\SQLEXPRESS";
                 builder.IntegratedSecurity = true;
                 builder.InitialCatalog = "academynet";
                 return builder;
@@ -26,7 +27,7 @@ namespace DB
 
         private SqlConnection GetConnection()
         {
-           return new SqlConnection(connectionStringBuilder.ConnectionString);
+            return new SqlConnection(connectionStringBuilder.ConnectionString);
         }
 
         public DataTable GetTables()
@@ -76,6 +77,89 @@ namespace DB
                 }
             }
         }
+        public DataTable GetCategories()
+        {
+            using (var connection2 = GetConnection())
+            {
+                var command = new SqlCommand();
+                command.CommandText = $"SELECT * FROM production.categories c";
+                command.Connection = connection2;
+                try
+                {
+                    connection2.Open();
+                    var reader = command.ExecuteReader();
+                    var dt = new DataTable();
+                    dt.Load(reader);
+                    reader.Close();
+                    return dt;
+                }
+                catch (Exception ex)
+                {
+                    throw;
+                }
+            }
+        }
+
+        public DataTable GetBrands()
+        {
+            using (var connection2 = GetConnection())
+            {
+                var command = new SqlCommand();
+                command.CommandText = $"SELECT * FROM production.brands b";
+                command.Connection = connection2;
+                try
+                {
+                    connection2.Open();
+                    var reader = command.ExecuteReader();
+                    var dt = new DataTable();
+                    dt.Load(reader);
+                    reader.Close();
+                    return dt;
+                }
+                catch (Exception ex)
+                {
+                    throw;
+                }
+            }
+        }
+
+        public void AddProduct(string nome, decimal prezzo, int categoria, int brand, int anno)
+        {
+            //INSERT INTO production.products (product_id,product_name,brand_id,model_year,list_price)
+            using (var connection2 = GetConnection())
+            {
+                var command = new SqlCommand();
+                command.Parameters.AddWithValue("@val1", nome);
+                command.Parameters.AddWithValue("@val2", brand);
+                command.Parameters.AddWithValue("@val3", categoria);
+                command.Parameters.AddWithValue("@val4", anno);
+                command.Parameters.AddWithValue("@val5", prezzo);
+                command.CommandText = $"INSERT INTO production.products (product_name,brand_id,category_id,model_year,list_price)\r\nVALUES (@val1 , @val2 , @val3, @val4 , @val5)";
+                command.Connection = connection2;
+
+
+                try
+                {
+                    connection2.Open();
+                    var writer = command.ExecuteNonQuery();
+                    //var dt = new DataTable();
+                    //dt.Load(reader);
+                    //reader.Close();
+                    //return dt;
+                }
+                catch (Exception ex)
+                {
+                    throw;
+                }
+
+
+
+            }
+
+        }
+
 
     }
+
 }
+
