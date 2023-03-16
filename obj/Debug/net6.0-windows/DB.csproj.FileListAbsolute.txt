@@ -1,0 +1,96 @@
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\DB.exe
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\DB.deps.json
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\DB.runtimeconfig.json
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.csproj.AssemblyReference.cache
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.Form1.resources
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.csproj.GenerateResource.cache
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.AssemblyInfoInputs.cache
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.AssemblyInfo.cs
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.csproj.CoreCompileInputs.cache
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.csproj.CopyComplete
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\refint\DB.dll
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\DB.genruntimeconfig.cache
+C:\Users\davide.luporini\source\repos\DBValerio\DB\obj\Debug\net6.0-windows\ref\DB.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\DB.exe
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\DB.deps.json
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\DB.runtimeconfig.json
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.csproj.AssemblyReference.cache
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.Form1.resources
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.csproj.GenerateResource.cache
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.AssemblyInfoInputs.cache
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.AssemblyInfo.cs
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.csproj.CoreCompileInputs.cache
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.csproj.CopyComplete
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\refint\DB.dll
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\DB.genruntimeconfig.cache
+C:\Users\davide.luporini\source\repos\DBesercizioDiGruppo\DBesercizioDiGruppo\DB\obj\Debug\net6.0-windows\ref\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\DB.exe
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\DB.deps.json
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\DB.runtimeconfig.json
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.csproj.AssemblyReference.cache
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.Form1.resources
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.csproj.GenerateResource.cache
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.AssemblyInfoInputs.cache
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.AssemblyInfo.cs
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.csproj.CoreCompileInputs.cache
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.csproj.CopyComplete
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\refint\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\DB.genruntimeconfig.cache
+C:\Users\davide.luporini\Desktop\dbProdotti\obj\Debug\net6.0-windows\ref\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\DB.exe
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\DB.deps.json
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\DB.runtimeconfig.json
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.csproj.AssemblyReference.cache
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.Form1.resources
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.csproj.GenerateResource.cache
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.AssemblyInfoInputs.cache
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.AssemblyInfo.cs
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.csproj.CoreCompileInputs.cache
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.csproj.CopyComplete
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\refint\DB.dll
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.pdb
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\DB.genruntimeconfig.cache
+C:\Users\davide.luporini\Desktop\dbProdotti - Copy\obj\Debug\net6.0-windows\ref\DB.dll
